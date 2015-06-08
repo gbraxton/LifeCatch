@@ -1,0 +1,19 @@
+## Life Catch Configuration File
+
+## Temboo Account Information
+##[TEMBOO_ACCOUNT]
+TEMBOO_ACCOUNT=realgenob
+TEMBOO_APP_KEY_NAME=myFirstApp
+TEMBOO_APP_KEY=1b5f07920bb146238e20cbee095b36d1
+
+## Twilio Account Information
+##Phone numbers must be in the form "+1 555-555-5555"
+##[TWILIO_ACCOUNT]
+TWILIO_ACCOUNT_SID=AC7a71ed17a187f5e769c7a7e00e95961a
+TWILIO_AUTH_TOKEN=10c549a4409730624b21f20057d8934b
+TWILIO_NUMBER="+1951-223-4587"
+
+## Gmail Account Information
+GMAIL_USERNAME="gbrax001@ucr.edu"
+GMAIL_PASSWORD="1homersi4Ucr"
+GMAIL_SUBJECT="LifeCatch_Alert"

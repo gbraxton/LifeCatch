@@ -1,0 +1,7 @@
+username="realgenob"
+econtactmethod="SMS"
+fallmessage="George done fell again and broke his shin bones."
+buttonmessage="Always got my finger on the button."
+ecsmsnum="+1989-400-9120"
+ecemail="realgenob@yahoo.com"
+submitconfig="Update Configuration Info"
